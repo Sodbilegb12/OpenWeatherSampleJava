@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginSmall">8dp</dimen>
+    <dimen name="marginDefault">16dp</dimen>
+    <dimen name="marginLarge">40dp</dimen>
+    <dimen name="marginXLarge">60dp</dimen>
+    <dimen name="marginXXLarge">80dp</dimen>
+
+    <dimen name="search_corner_radius">5dp</dimen>
+    <dimen name="search_stroke">1dp</dimen>
+</resources>

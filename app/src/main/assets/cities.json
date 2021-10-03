@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Ulaanbaatar"
+  },
+  {
+    "id": 2,
+    "name": "Beijing"
+  },
+  {
+    "id": 3,
+    "name": "Moscow"
+  },
+  {
+    "id": 4,
+    "name": "Tokyo"
+  },
+  {
+    "id": 5,
+    "name": "Seoul"
+  },
+  {
+    "id": 6,
+    "name": "Yangon"
+  },
+  {
+    "id": 7,
+    "name": "London"
+  },
+  {
+    "id": 8,
+    "name": "Brussels"
+  },
+  {
+    "id": 9,
+    "name": "Canberra"
+  },
+  {
+    "id": 10,
+    "name": "Berlin"
+  },
+  {
+    "id": 11,
+    "name": "Madrid"
+  },
+  {
+    "id": 12,
+    "name": "Hanoi"
+  },
+  {
+    "id": 13,
+    "name": "Bangkok"
+  },
+  {
+    "id": 14,
+    "name": "Taipei"
+  },
+  {
+    "id": 15,
+    "name": "Singapore"
+  }
+]

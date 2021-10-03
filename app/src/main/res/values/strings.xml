@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenWeatherSampleJava</string>
+    <string name="search_hint">Хайх</string>
+    <string name="error">Oops, something is wrong</string>
+</resources>
